@@ -30,7 +30,7 @@ const Contact = () => {
 
     try {
       // REPLACE THIS URL WITH YOUR ACTUAL BACKEND ENDPOINT
-      const BACKEND_URL = 'http://127.0.0.1:8000/api/contact/';
+      const BACKEND_URL = 'https://AshwinM31.pythonanywhere.com/api/contact/';
 
       const response = await fetch(BACKEND_URL, {
         method: 'POST',
