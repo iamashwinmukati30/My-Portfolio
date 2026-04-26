@@ -53,8 +53,8 @@ Frontend setup:
 
 ```bash
 cd frontend
-npm install
-npm start
+npm i (for node module)
+npm run dev
 ```
 ## Screenshots
 
