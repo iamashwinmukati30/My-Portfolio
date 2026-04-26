@@ -9,7 +9,7 @@ A full stack personal portfolio website showcasing my projects, skills, and cont
 - Contact form
 - Backend integration
 - Database connectivity
-- Admin panel (if added)
+
 
 🛠 Tech Stack
 # Frontend
