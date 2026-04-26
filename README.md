@@ -56,6 +56,16 @@ cd frontend
 npm install
 npm start
 ```
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Projects
+![Projects](screenshots/projectpage.png)
+
+### Contact
+![Contact](screenshots/contactpage.png)
 ## 🌐 Live Demo
 https://ashwin31portfolio.netlify.app/
 
